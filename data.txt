@@ -1,0 +1,716 @@
+Jagrit Kamra
+
+About
+[]
+
+Experience
+[]
+
+Education
+[None at Ryan International School, Rohini from None to None]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '0', 'Total Commits (2021):', '79', 'Total PRs:', '4', 'Total Issues:', '0', 'Contributed to:', '4']
+Github languages
+['HTML', '53.97%', 'SCSS', '27.31%', 'JavaScript', '18.72%']
+Certificates
+[]
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Days of Code', 'Days of JS', 'C language']
+[5, 4, 1, 2, 1, 2, 4]
+Codechef:1383
+
+Vipransh Agarwal
+
+About
+[]
+
+Experience
+[Member at ACM Student Chapter, JUIT Full-time from Oct 2020 to Present for 1 yr based at Mathura, Uttar Pradesh, India]
+
+Education
+[None at Jaypee University of Information Technology from None to None]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '1.7k', 'Total Commits (2021):', '10.2k', 'Total PRs:', '2.6k', 'Total Issues:', '797', 'Contributed to:', '170']
+Github languages
+['PHP', '61.96%', 'Python', '20.97%', 'Go', '17.07%']
+Certificates
+['Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving']
+[4]
+Codechef:2094
+
+Dev Tyagi
+
+About
+[]
+
+Experience
+[Company Name
+ACM Student Chapter, JUIT at None from None to None for None based at None, Marketing Associate at Technology Incubation and Entrepreneurship Development Cell, JUIT (TIEDC) from Aug 2019 to Present for 2 yrs 2 mos based at Waknaghat, Rotaractor at Rotaract Club Of Waknaghat Full-time from Jul 2019 to Present for 2 yrs 3 mos based at Waknaghat, Himachal Pradesh, Marketing Intern | Student Partner at None from None to None for None based at None]
+
+Education
+[Bachelor of Technology - BTech at Jaypee University of Information Technology from 2019 to 2023, None at JKG International School from None to None]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '956', 'Total Commits (2021):', '1.8k', 'Total PRs:', '1.4k', 'Total Issues:', '9.4k', 'Contributed to:', '41']
+Github languages
+['Objective-C', '45.87%', 'JavaScript', '29.73%', 'Ruby', '14.02%', 'C', '6.34%', 'CSS', '4.04%']
+Certificates
+['Certificate: Problem Solving (Basic)', 'Certificate: Java (Basic)', 'Certificate: Problem Solving (Intermediate)', 'Certificate: Python (Basic)']
+Badges
+['Problem Solving', 'Java', 'Python', 'C language']
+[6, 5, 5, 4]
+Codechef:2200
+Devansh Chaudhary
+
+About
+[]
+
+Experience
+[Corporate Relations Team Member at None from None to None for None based at None, Freelance Web Developer at None from None to None for None based at None, Web Development Team Member at None from None to None for None based at None, Summer Intern at None from None to None for None based at None, Freelance Developer at None from None to None for None based at None]
+
+Education
+[Bachelor of Technology - BTech at Jaypee University of Information Technology from 2020 to 2024, None at Delhi Public School - India from None to None]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '643', 'Total Commits (2021):', '7k', 'Total PRs:', '1k', 'Total Issues:', '113', 'Contributed to:', '89']
+Github languages
+['PHP', '77.09%', 'JavaScript', '16.57%', 'Blade', '5.07%', 'HTML', '0.79%', 'Shell', '0.47%']
+Certificates
+['Certificate: Python (Basic)', 'Certificate: Problem Solving (Basic)', 'Certificate: C++ (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Python', 'Days of Code', 'Days of JS', 'Sql']
+[5, 5, 5, 5, 5, 5]
+Codechef:2364
+
+
+Shaan Srivastava
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '44.1k', 'Total Commits (2021):', '2.1k', 'Total PRs:', '458', 'Total Issues:', '1.4k', 'Contributed to:', '32']
+Github languages
+['JavaScript', '81.72%', 'CSS', '14.64%', 'HTML', '2.08%', 'CoffeeScript', '1.26%', 'Vue', '0.30%']
+Certificates
+['Certificate: Python (Basic)', 'Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Days of Code', 'Sql']
+[6, 4, 2, 3, 5, 5]
+Codechef:2201
+
+
+
+
+Rashi Singh
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '13.1k', 'Total Commits (2021):', '5.4k', 'Total PRs:', '1.1k', 'Total Issues:', '1.5k', 'Contributed to:', '20']
+Github languages
+['JavaScript', '37.16%', 'Scala', '35.45%', 'PHP', '14.69%', 'TypeScript', '7.82%', 'HTML', '4.88%']
+Certificates
+['Certificate: Problem Solving (Intermediate)', 'Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Sql']
+[6, 3, 1, 4, 3]
+Codechef:2095
+
+
+
+
+Ekansh Kakkar
+
+About
+[]
+
+Experience
+[Programmer Analyst Trainee at Cognizant Internship from Mar 2021 to Present for 7 mos based at Pune, Maharashtra, India]
+
+Education
+[Bachelor of Technology - BTech at Jaypee University of Information Technology from 2017 to 2021, High School at Delhi Public School Ghaziabad Society from 2002 to 2017]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '5.5k', 'Total Commits (2021):', '3.3k', 'Total PRs:', '374', 'Total Issues:', '1.7k', 'Contributed to:', '56']
+Github languages
+['JavaScript', '59.20%', 'Python', '32.76%', 'CSS', '5.08%', 'HTML', '2.51%', 'PHP', '0.45%']
+Certificates
+[]
+Badges
+['Problem Solving', 'Python']
+[6, 1]
+Codechef:2011
+
+
+
+
+Garima Sharma
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '657', 'Total Commits (2021):', '1.1k', 'Total PRs:', '850', 'Total Issues:', '6.3k', 'Contributed to:', '92']
+Github languages
+['HTML', '49.49%', 'JavaScript', '36.89%', 'Elixir', '6.07%', 'CoffeeScript', '3.86%', 'CSS', '3.70%']
+Certificates
+['Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving', 'Sql']
+[6, 4]
+Codechef:1917
+
+
+
+
+Aditi Manglesh
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '7.4k', 'Total Commits (2021):', '1.2k', 'Total PRs:', '6.4k', 'Total Issues:', '2k', 'Contributed to:', '58']
+Github languages
+['Rust', '49.47%', 'JavaScript', '20.06%', 'C', '19.75%', 'Ruby', '6.58%', 'Shell', '4.13%']
+Certificates
+['Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving']
+[5]
+Codechef:1898
+
+
+
+
+Awantika Kashyap
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '1k', 'Total Commits (2021):', '587', 'Total PRs:', '418', 'Total Issues:', '1.7k', 'Contributed to:', '25']
+Github languages
+['JavaScript', '90.84%', 'HTML', '5.41%', 'CSS', '3.14%', 'Shell', '0.56%', 'Makefile', '0.04%']
+Certificates
+['Certificate: Python (Basic)', 'Certificate: Java (Basic)', 'Certificate: Python (Intermediate)', 'Certificate: Problem Solving (Intermediate)', 'Certificate: Problem Solving (Basic)', 'Certificate: Java (Intermediate)', 'Certificate: C++ (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Days of Code']
+[5, 5, 5, 5, 1]
+Codechef:2045
+
+
+
+
+Shivansh Dubey
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '857', 'Total Commits (2021):', '1k', 'Total PRs:', '346', 'Total Issues:', '663', 'Contributed to:', '14']
+Github languages
+['JavaScript', '88.02%', 'HTML', '11.17%', 'CSS', '0.77%', 'Objective-C', '0.03%', 'Python', '0.01%']
+Certificates
+['Certificate: Problem Solving (Intermediate)', 'Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving', 'Python', 'C language']
+[6, 4, 4]
+Codechef:1754
+
+
+
+
+Saumya Prakhar Singh
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+[]
+Github languages
+[]
+Certificates
+['Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving']
+[6]
+Codechef:2155
+
+
+
+
+pentakota kavya
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '33.6k', 'Total Commits (2021):', '105', 'Total PRs:', '1.2k', 'Total Issues:', '585', 'Contributed to:', '5']
+Github languages
+['JavaScript', '71.17%', 'CSS', '16.82%', 'HTML', '11.02%', 'Vim script', '0.97%', 'Ruby', '0.02%']
+Certificates
+[]
+Badges
+['Problem Solving']
+[6]
+Codechef:2234
+
+
+
+
+Shubham Kumar
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+[]
+Github languages
+[]
+Certificates
+['Certificate: Problem Solving (Intermediate)', 'Certificate: Problem Solving (Basic)', 'Certificate: C (Basic)', 'Certificate: C (Intermediate)', 'Certificate: Java (Basic)']
+Badges
+['Problem Solving', 'Java', 'Python', 'Days of Code', 'Sql', 'C language']
+[6, 5, 5, 2, 2, 4]
+Codechef:1842
+
+
+
+
+Suvrat Mishra
+
+About
+[]
+
+Experience
+[Associate Engineer at None from None to None for None based at None, R&D Engineer, I at Synopsys Inc Full-time from Jun 2021 to Aug 2021 for 3 mos based at India, Student at None from None to None for None based at None]
+
+Education
+[BTech - Bachelor of Technology at National Institute of Technology Kurukshetra from 2017 to 2021]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '9.1k', 'Total Commits (2021):', '3.4k', 'Total PRs:', '4.4k', 'Total Issues:', '2.7k', 'Contributed to:', '124']
+Github languages
+['PHP', '44.49%', 'Objective-C', '40.31%', 'C', '11.69%', 'JavaScript', '2.50%', 'Ruby', '1.01%']
+Certificates
+['Certificate: C (Basic)', 'Certificate: C (Intermediate)', 'Certificate: C (Advanced)']
+Badges
+['Problem Solving', 'CPP', 'Python', 'Days of Code', 'Days of JS', 'C language']
+[5, 1, 5, 1, 1, 5]
+Codechef:2077
+
+
+
+
+Athul Nair
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '60.3k', 'Total Commits (2021):', '3k', 'Total PRs:', '632', 'Total Issues:', '772', 'Contributed to:', '7']
+Github languages
+['JavaScript', '41.99%', 'CSS', '29.19%', 'Ruby', '16.47%', 'CoffeeScript', '6.78%', 'PHP', '5.57%']
+Certificates
+['Certificate: Problem Solving (Basic)', 'Certificate: Python (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Python', 'Sql']
+[5, 4, 5, 3]
+Codechef:1647
+
+
+
+
+Joel Joy
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '1.7k', 'Total Commits (2021):', '1.1k', 'Total PRs:', '2.5k', 'Total Issues:', '1.5k', 'Contributed to:', '87']
+Github languages
+['JavaScript', '91.53%', 'CSS', '5.44%', 'Shell', '1.23%', 'HTML', '1.18%', 'TypeScript', '0.61%']
+Certificates
+['Certificate: Problem Solving (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java']
+[5, 1, 3]
+Codechef:1647
+
+
+
+
+Vishnu Gopakumar
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '232.6k', 'Total Commits (2021):', '4.6k', 'Total PRs:', '31', 'Total Issues:', '56', 'Contributed to:', '5']
+Github languages
+['JavaScript', '63.36%', 'PHP', '16.84%', 'ASP', '9.51%', 'HTML', '6.20%', 'TypeScript', '4.09%']
+Certificates
+['Certificate: Python (Basic)', 'Certificate: Python (Intermediate)', 'Certificate: React (Basic)', 'Certificate: JavaScript (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Days of Code', 'Days of JS', 'Days ofStatistics', 'Sql']
+[6, 3, 5, 5, 5, 5, 5, 4]
+Codechef:1723
+
+
+
+
+Vikash Kumar
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '3.1k', 'Total Commits (2021):', '1.9k', 'Total PRs:', '1.1k', 'Total Issues:', '545', 'Contributed to:', '4']
+Github languages
+['Objective-C', '65.95%', 'OCaml', '13.28%', 'Clojure', '10.89%', 'C', '5.35%', 'Swift', '4.53%']
+Certificates
+['Certificate: Problem Solving (Intermediate)', 'Certificate: Problem Solving (Basic)', 'Certificate: SQL (Basic)', 'Certificate: Python (Basic)']
+Badges
+['Problem Solving', 'Java', 'Python', 'Days of Code', 'Days of JS', 'Sql']
+[6, 5, 5, 1, 2, 5]
+Codechef:1760
+
+
+
+
+Deepak G
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '8.6k', 'Total Commits (2021):', '1.7k', 'Total PRs:', '1.2k', 'Total Issues:', '715', 'Contributed to:', '7']
+Github languages
+['JavaScript', '58.73%', 'Ruby', '27.33%', 'CoffeeScript', '7.30%', 'CSS', '4.74%', 'HTML', '1.90%']
+Certificates
+[]
+Badges
+['Problem Solving', 'Java', 'Days of JS']
+[5, 5, 1]
+Codechef:2038
+
+
+
+
+Girish Pai
+
+About
+[]
+
+Experience
+[]
+
+Education
+[]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '9.6k', 'Total Commits (2021):', '28', 'Total PRs:', '345', 'Total Issues:', '772', 'Contributed to:', '1']
+Github languages
+['HTML', '98.67%', 'LLVM', '0.88%', 'Python', '0.20%', 'JavaScript', '0.18%', 'TeX', '0.08%']
+Certificates
+['Certificate: Java (Basic)', 'Certificate: Problem Solving (Basic)', 'Certificate: Java (Intermediate)', 'Certificate: C++ (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Java', 'Python', 'Sql']
+[6, 5, 2, 3, 3]
+Codechef:2038
+
+
+
+
+NEHA PRADEEP
+
+About
+[]
+
+Experience
+[Company Name
+Sandvine at None from None to None for None based at None, Summer Intern at Proaims IoT Solutions LLP from May 2019 to Jun 2019 for 2 mos based at Calicut Area, India, Summer Intern at zreyah semiconductor systems Pvt Ltd from May 2018 to Jun 2018 for 2 mos based at Bengaluru, Karnataka, India]
+
+Education
+[Bachelor of Technology - BTech at National Institute of Technology, Calicut from 2016 to 2020, AISSE at St Antony's Public School, Kanjirapally from 2014 to 2016, ICSE, Science at St. Peters ICSE school from 2005 to 2014]
+
+Interest
+[]
+
+Accomplishments
+[]
+
+Contacts
+[]
+Github stats
+['Total Stars:', '690', 'Total Commits (2021):', '1.4k', 'Total PRs:', '2.1k', 'Total Issues:', '2.7k', 'Contributed to:', '8']
+Github languages
+['Java', '38.53%', 'Ruby', '36.70%', 'Vim script', '15.71%', 'HTML', '6.10%', 'Go', '2.96%']
+Certificates
+['Certificate: Problem Solving (Basic)', 'Certificate: Python (Basic)']
+Badges
+['Problem Solving', 'CPP', 'Python']
+[5, 3, 5]
+Codechef:2477
+
+
+
+
